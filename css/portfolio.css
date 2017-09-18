@@ -1,0 +1,11 @@
+
+
+
+.about,.skills,.download,.portfolio,.blog,.contact{
+	padding:55px 0px;
+	text-align:center;
+}
+.about h3,.skills h3,.download h3,.portfolio h3,.blog h3 ,.contact h3{
+	color:#000;
+	font-size:36px;
+}
